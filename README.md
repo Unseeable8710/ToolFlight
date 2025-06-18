@@ -8,6 +8,9 @@ Check the wiki for all ToolFlight documentation. The wiki covers all possible to
 
 
 ## Additional information
+### Changelog
+Placeholder[^2]
+
 ### Notes
 This project is incomplete, so this README doesn't have all the information and neither does the wiki.
 
@@ -15,3 +18,4 @@ This project is incomplete, so this README doesn't have all the information and 
 I don't have anyone to credit here yet, but I assure you this will be the longest thing in the README by the time I get the first testing release published.
 
 [^1]: The wiki is currently nonexistent.
+[^2]: This will be replaced with a link to the changelog in the wiki when I'm ready to make the wiki.
