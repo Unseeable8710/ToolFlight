@@ -27,5 +27,5 @@ GM_registerMenuCommand("Search scores by user", searchUserScores, {
   title: "Searches for scores by a specific user. This can be handy if their scores aren't displayed on their profile."
 });
 (function() {
-  'use strict'
+  'use strict' // I'm not British, I just used single quotes for this. I usually prefer using double quotes because my American self is used to them.
 })();
