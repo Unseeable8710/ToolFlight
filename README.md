@@ -5,7 +5,16 @@ ToolFlight is a userscript that provides basic additional tools and utilities fo
 Check the wiki for all ToolFlight documentation. The [wiki](https://github.com/Unseeable8710/ToolFlight/wiki) covers all possible topics about ToolFlight[^1], including how to install it, how to use it, its features, and tips.
 
 ## Installation
-
+There are two ways to install ToolFlight:
+1. Using GitHub:
+   - Go to the releases page or go to the "archive" folder.
+   - Choose a version or click on the userscript with the version you want.
+   - Download the userscript.
+   - Click install.
+2. Using Greasy Fork (you can only get the latest version):
+   - Go to the [userscript page on Greasy Fork](https://greasyfork.org/en/scripts/540434-toolflight).
+   - Click the green install button.
+   - Click install.
 
 ## Additional information
 ### Changelog
