@@ -15,17 +15,17 @@
 // @grant        GM_registerMenuCommand
 // ==/UserScript==
 
-(function() {
-  function searchUserScores(name = false) {
-    if (name) {
-      open(`https://noteflight.com/music/search?term=${name}`);
-    } else {
-      name = prompt("Enter the username of the person whose scores you want to find:");
-      open(`https://noteflight.com/music/search?term=${name}`);
-    }
+var uwin = unsafeWindow;
+function searchUserScores() {
+  var name = prompt("Enter the username of the person whose scores you want to find:");
+  if (name != null) {
+    open(`https://noteflight.com/music/search?term=${name}`);
   }
-  GM_registerMenuCommand("Search scores by user", searchUserScores(), {
-    accessKey: "u",
-    title: "Searches for scores by a specific user. This can be handy if their scores aren't displayed on their profile."
-  });
+}
+GM_registerMenuCommand("Search scores by user", searchUserScores, {
+  accessKey: "u",
+  title: "Searches for scores by a specific user. This can be handy if their scores aren't displayed on their profile."
+});
+(function() {
+
 })();
