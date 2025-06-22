@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ToolFlight
 // @namespace    Unseeable's Noteflight Tools
-// @version      1.0.0-b1r0
+// @version      1.0.0-b1r1
 // @description  A set of tools and features for the online notation platform called Noteflight.
 // @author       Colton Stone
 // @homepage     https://github.com/Unseeable8710/ToolFlight
@@ -9,7 +9,7 @@
 // @tag          productivity
 // @tag          utilities
 // @match        https://www.noteflight.com/*
-// @require      https://raw.githubusercontent.com/Unseeable8710/JSVL/refs/heads/main/src/jsvl.js
+// @require      https://update.greasyfork.org/scripts/540433/1612221/JSVL.js
 // @icon         https://www.google.com/s2/favicons?sz=32&domain=noteflight.com
 // @grant        unsafeWindow
 // @grant        GM_registerMenuCommand
