@@ -13,6 +13,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=32&domain=noteflight.com
 // @grant        unsafeWindow
 // @grant        GM_registerMenuCommand
+// @downloadURL  https://github.com/Unseeable8710/ToolFlight/raw/refs/heads/main/src/ToolFlight.user.js
+// @updateURL    https://github.com/Unseeable8710/ToolFlight/raw/refs/heads/main/src/ToolFlight.user.js
 // ==/UserScript==
 
 var uwin = unsafeWindow;
